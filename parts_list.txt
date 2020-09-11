@@ -1,0 +1,15 @@
+Radiospare (https://www.rs-online.com/):
+reference ; quantity
+
+761-3290  ; 1
+761-3284 ; 2
+767-5579 ; 16
+767-5566 ; 52
+
+Wood planks:
+
+- 2 x 300*500 mm
+- 300*290
+- 300*230
+- 300*220
+- 300*200
